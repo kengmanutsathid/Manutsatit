@@ -1,2 +1,0 @@
-# Manutsatit
-Manutsatit-webprogramming-workshop
